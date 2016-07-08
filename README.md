@@ -8,7 +8,7 @@ Via [a tweet](https://twitter.com/margaretkosmala/status/750631497527226368) and
 
 > But it’s worse than that. Excel can actually change the format of the dates in a non-Excel file (e.g. CSV file) without your permission.
 
-She then outlines a workflow in which examining a csv file with Excel resulted in date mangling in the csv (e.g., changed from "2016-05-03" to "5/3/16"). Even though user never allowed Excel to save the file. From Twitter replies and comments, I see some others could reproduce this, though I could not. Maybe it's a Windows phenomenon? Stephen Heard confirmed it using Windows 7 and Excel 2010.
+She then outlines a workflow in which examining a csv file with Excel resulted in date mangling in the csv (e.g., changed from "2016-05-03" to "5/3/16"). Even though user never allowed Excel to save the file. From Twitter replies and comments, I see some others could reproduce this. Between Stephen Heard and Margaret, it's confirmed for Excel 2010 and 2013 on Windows 7.
 
 ### Can't read a csv when first two characters are "ID"
 
