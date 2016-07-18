@@ -2,6 +2,8 @@
 
 Sobering things about Excel. People send me so many of these, I feel obligated to collect them in one place.
 
+**The focus is on bugs or dangerous behavior in Excel itself.** Not on human error, even if amplified by Excel. That is also tragic, but an entirely different matter.
+
 ### Mangling dates in a csv file it shouldn't touch
 
 Via [a tweet](https://twitter.com/margaretkosmala/status/750631497527226368) and [blog post](http://ecologybits.com/index.php/2016/07/06/beware-this-scary-thing-excel-can-do-to-your-data/) by Margaret Kosmala [\@margaretkosmala](https://twitter.com/margaretkosmala)
