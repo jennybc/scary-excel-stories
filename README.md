@@ -27,3 +27,9 @@ Barry R Zeeberg, Joseph Riss, David W Kane, Kimberly J Bussey, Edward Uchio, W M
 
 BMC Bioinformatics 2004 5:80  
 DOI: 10.1186/1471-2105-5-80
+
+### Abandon All Hope, Ye Who Enter Dates In Excel
+
+https://datapub.cdlib.org/2014/04/10/abandon-all-hope-ye-who-enter-dates-in-excel/
+
+Blog post by Kara Woo [\@kara_woo](https://twitter.com/kara_woo) on date mangling in Excel.
